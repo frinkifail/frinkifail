@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate with @milena-kos
 - 📫 How to reach me: discord (Frinkifail#9518)
 
-<!---
-frinkifail/frinkifail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frinkifail" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frinkifail&langs_count=8" height="195rem" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frinkifail&label=Profile%20views&color=4f94ef" alt="frinkifail" />
+  <img src="https://wakatime.com/badge/user/9255df94-b002-4908-90da-d71683162640.svg">
+</p>
