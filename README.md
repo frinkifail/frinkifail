@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python duh
 - 💞️ I’m looking to collaborate with @milena-kos
-- 📫 How to reach me: discord (Frinkifail#9518)
+- 📫 How to reach me: discord (frinkifail#6969)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frinkifail" />
