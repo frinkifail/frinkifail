@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frinkifail
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python duh
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate with @milena-kos
 - 📫 How to reach me: discord (frinkifail)
 
