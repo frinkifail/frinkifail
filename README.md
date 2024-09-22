@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @frinkifail
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate with @milena-kos
+- 💞️ I’m looking to collaborate with @milenakos
 - 📫 How to reach me: discord (frinkifail)
+- https://catgirl.center/@frinkifail
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frinkifail" />
